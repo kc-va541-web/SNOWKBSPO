@@ -75,11 +75,12 @@ If you have recently lost access to a site that you frequently use or a site tha
 Suggest using internal Citrix to connect to site
 1. use INternt Explorer browsert to Login in to https://citrixaccess.va.gov/ and sign in with PIV card
 2. If unable to sign in, user has an account issue and needs to contact their local ISSO for explanation and resolution
-3. If able to sign into Citrix, launch IE browser and wait for browser to come up
-4. Browse to effected SharePoint site
-5. If user can access, they have a PC Settings error and ticket needs to be forwarded to End USer Operations for resolving.
+3. If able to sign into Citrix, open One VA dsktop and wait for the virtual desktop to render
+4. launch IE browser and wait for browser to come up
+5. Browse to effected SharePoint site
+6. If user can access, they have a PC Settings error and ticket needs to be forwarded to End USer Operations for resolving.
 
-
+** Escalation to Tier II **
 If you are still experiencing issues with logging into SharePoint Online, contact the Enterprise Service Desk using one of the methods listed below:
 
 Self-Service: Create Incident 
