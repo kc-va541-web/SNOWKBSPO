@@ -80,6 +80,13 @@ NOTE: It is unlikely that Office of Information and Technology staff are familia
 
 It is also recommended that site owners who need help understanding access controls and permissions refer to the O365 Training Center and the SharePoint Training Resources site before escalating a ticket to OIT for support.
 
+Suggest using internal Citrix to connect to site
+1. use INternt Explorer browsert to Login in to https://citrixaccess.va.gov/ and sign in with PIV card
+2. If unable to sign in, user has an account issue and needs to contact their local ISSO for explanation and resolution
+3. If able to sign into Citrix, launch IE browser and wait for browser to come up
+4. Browse to effected SharePoint site
+5. If user can access, they have a PC Settings error and ticket needs to be forwarded to End USer Operations for resolving.
+6. Uf user still has site is not been shared with you, contact the Enterprise Service Desk using one of the methods listed below.
 
 If you are still experiencing issues with logging into SharePoint Online, contact the Enterprise Service Desk using one of the methods listed below:
 
